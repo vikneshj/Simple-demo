@@ -1,2 +1,2 @@
-# Simple-demo
-This is simple repository for training
+# Simple example repository
+This is jsut an example repository for training purposes.
